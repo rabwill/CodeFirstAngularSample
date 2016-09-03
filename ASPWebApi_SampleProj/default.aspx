@@ -5,7 +5,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>List of Cities</title>
-
 </head>
 <body data-ng-app="mainApp">
     <form id="form1" runat="server">
